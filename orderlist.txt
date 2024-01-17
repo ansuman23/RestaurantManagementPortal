@@ -1,0 +1,4 @@
+601,veg pizza 2,garlic bread 1,
+616,Plain Rice 1,Dal FRY 1,Paneer Bt.Masala 2,Chicken Biryani 1,
+554,Plain Rice 1,Dal FRY 1,Mushroom Kofta 1,Chicken Biryani 1,Butter Naan 2,
+578,Plain Rice 1,Dal FRY 1,Chicken Biryani 1,Mushroom Kofta 1,Chilli paneer 1,Butter Naan 2,

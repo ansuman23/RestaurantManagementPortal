@@ -1,0 +1,7 @@
+1,Plain Rice,50
+2,Dal FRY,60
+4,Veg Biryani,100
+9,Chicken Biryani,180
+15,Mushroom Kofta,150
+24,Butter Naan,20
+25,Chilli paneer,140
